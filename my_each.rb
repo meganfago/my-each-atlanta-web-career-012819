@@ -8,3 +8,4 @@ i = 0
   end
   collection
 end
+my_each(collection) {|x| puts x}
